@@ -1,11 +1,19 @@
-<div style="float:right; text-align:right">
-<p>
-<a target="_blank" href="https://github.com/areiter128/DCLD/archive/release.zip" rel="nofollow">
-<img src="./docs/zDLD-download.png" alt="Download Latest Release" width="260"></a> 
-<a target="_blank" href="https://github.com/areiter128/DCLD/releases" rel="nofollow">
-<img src="./docs/zDLD-release.png" alt="Download Latest Release" width="260"></a> 
-</p>
-</div><br><br>
+<div style="float:center; text-align:center">
+<table>
+  <tr>
+    <td width=200>
+		<a href="https://github.com/areiter128/DCLD/archive/release.zip" rel="nofollow">
+		<img src="./docs/zDLD-download.png" alt="Download Latest Release" width="180"></a>
+	</td>
+    <td width=100> </td>
+    <td width=200>
+		<a target="_blank" href="https://github.com/areiter128/DCLD/releases" rel="nofollow">
+		<img src="./docs/zDLD-release.png" alt="Download Latest Release" width="180"></a> 
+	</td>
+  </tr>
+</table>
+<br><br>
+</div>
 
 # Digital Control Library Designer SDK for Microchip dsPIC33® (DCLD)
 
