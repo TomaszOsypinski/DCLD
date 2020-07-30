@@ -3,7 +3,7 @@
 <img src="./docs/zDLD-download.png" alt="Download Latest Release" width="180"></a>
 <a target="_blank" href="https://github.com/areiter128/DCLD/releases" rel="nofollow">
 <img src="./docs/zDLD-release.png" alt="Download Latest Release" width="180"></a> 
-<a target="_blank" href="./docs/181026g_dcld_beta_user_guide.pdf" rel="nofollow">
+<a target="_blank" href="./docs/181026h_dcld_beta_user_guide.pdf" rel="nofollow">
 <img src="./docs/zDLD-userguide.png" alt="View User Guide" width="180"></a> 
 </div>
 ---
@@ -34,7 +34,7 @@ DCLD z-Domain Code Generation View
 The standardized API ensures seamless integration into the final firmware, supporting multiple, co-existing controllers in one firmware and seamless exchange between different controller types and scaling methods helping to solve typical performance vs. accuracy and feature tradeoffs.
 For simplified use during code development, the z-Domain configuration window and code generator can be called directly from the MPLAB X® environment to make changes. 
 
-(Please refer to the [PDF User Guide](./docs/181026g_dcld_beta_user_guide.pdf) for details)
+(Please refer to the [PDF User Guide](./docs/181026h_dcld_beta_user_guide.pdf) for details)
 
 ### Core Features:
 * **Supports z-Domain Compensation Filters from 1st to 6th Order**
