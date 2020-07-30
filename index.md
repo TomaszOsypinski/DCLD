@@ -1,9 +1,10 @@
-<div style="float:right; text-align:right">
+<div style="float:center; text-align:center">
 <p>
-<a target="_blank" href="https://github.com/areiter128/DCLD/archive/release.zip" rel="nofollow">
-<img src="./docs/zDLD-download.png" alt="Download Latest Release" width="260"></a> 
+<a href="https://github.com/areiter128/DCLD/archive/release.zip" rel="nofollow">
+<img src="./docs/zDLD-download.png" alt="Download Latest Release" width="180"></a> 
+nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;
 <a target="_blank" href="https://github.com/areiter128/DCLD/releases" rel="nofollow">
-<img src="./docs/zDLD-release.png" alt="Download Latest Release" width="260"></a> 
+<img src="./docs/zDLD-release.png" alt="Download Latest Release" width="180"></a> 
 </p>
 </div><br><br>
 
