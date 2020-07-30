@@ -1,4 +1,7 @@
-<p><a href="https://www.microchip.com" rel="nofollow"><img src="./docs/zDLD-download.png" alt="Download Latest Release" style="width:300;"></a></p>
+<div style="float:right; text-align:right">
+<p><a target="_blank" href="https://github.com/areiter128/DCLD/releases" rel="nofollow">
+<img src="./docs/zDLD-download.png" alt="Download Latest Release" width="300"></a></p>
+</div>
 
 # Digital Control Library Designer SDK for Microchip dsPIC33® (DCLD)
 
