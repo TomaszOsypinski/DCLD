@@ -18,16 +18,16 @@ The major scope of this tool is the rapid design of a digital power supply contr
 
 In the current version the essential functions of the z-domain configuration block of the Digital Control Library SDK is allowing the graphical design of z-Domain compensation filters from the 1st to the 6th order (1P1Z to 6P6Z), the generation of customized/tailored digital SMPS controller code libraries with standardized API, taking away the need to manually write DSP-specific source code. Analysis results on timing, number accuracy and resolution and support of alternative fixed- and floating point number scaling options help to tune and optimize the final SMPS controller firmware for specific needs.
 
-![DCLD z-Domain Configuration Window](./docs/zDLD-main.JPG)
+![DCLD z-Domain Configuration Window](./docs/zDLD-main.png)
 DCLD z-Domain Configuration Main Window
 
-![DCLD z-Domain Timing Analysis View](./docs/zDLD-timing.jpg)
+![DCLD z-Domain Timing Analysis View](./docs/zDLD-timing.png)
 DCLD z-Domain Timing Analysis View
 
-![DCLD z-Domain Code Configuration View](./docs/zDLD-code_config.jpg)
+![DCLD z-Domain Code Configuration View](./docs/zDLD-code_config.png)
 DCLD z-Domain Code Configuration View
 
-![DCLD z-Domain Code Generation View](./docs/zDLD-code_generation.jpg)
+![DCLD z-Domain Code Generation View](./docs/zDLD-code_generation.png)
 DCLD z-Domain Code Generation View
 
 
