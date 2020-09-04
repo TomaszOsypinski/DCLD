@@ -45,21 +45,18 @@ For simplified use during code development, the z-Domain configuration window an
 * **ANSI C/DSP Assembly Code Generation**
 
 ### Special Features:
-* **Data export using menu Tools => Copy To Clipboard**  
-Export of s-Domain and z-Domain Transfer Function (Bode Plot Data) copies the bode plot data table into the clipboard as tab-separated text table with column headers. This data can directly be pasted into e.g. MS Excel. The data table is set to 1601 points by default ranging from 1Hz to 1MHz.  
+* **Advanced Control Options**  
+DCLD provides code generator options injecting code into the real-time high speed loop allowing advanced control agorithms manipuative access to the compensation filter computation as well as data provider sources to track and monitor internal processing data at runtime.
 
-    **Please Note:**  
-    In this version the frequency range cannot be changed. A more flexible data export configuration is in preparation.
+* **System Design Options**  
+DCLD offers alternative feedback loops enabling power supply plant measurements supporting power plant model verification and/or directly deriving essential, unknown plant transfer function information through bench tests using vector network analyzers.
 
-* **Coefficient Declaration**  
-This is practically the content of the C-source file and therefore pretty much obsolete. You could as well just select the generated code from the C-Source window and copy it from there.
+* **MPLAB X Support**  
+DCLD was developed as control library generator for Microchip dsPIC33 product families. To allow the code generator derive project settings like C include directories and selected device part number, each controller project is tightly coupled to an MPLAB X project. For most convenient use, DCLD can be opened from the MPLAB X project manager context menu when the project file is included in the related MPLAB X project.
 
-* **Coefficient Table**  
-All coefficients are exported as block covering floating point, scaled floating point, fixed point, hex, int and binary number format and the rounding error. This is more for documentation than for any other reasonable use case.
+* **Data export**  
+Export of s-Domain and z-Domain Transfer Function (Bode Plot Data) copies the bode plot data table into the clipboard as tab-separated text table with column headers. This data can directly be pasted into external applications such as MS Excel.   
 
-* **Config File Location**  
-Copies the file location of the op-code file for the assembly code generation. This is the script used to build the assembly library. Unfortunately, the C-code is not script based yet. Any larger modification affecting names or data structure elements would result in necessary changes to the DCLD code, which is not feasible. In future versions beyond v1.0 both (assembly and C) will be fully script based to allow anyone to add and modify supported controllers without the need to change to the main program.  
-Nevertheless, should you decide to tweak the assembly code (e.g. comments, instructions, working registers, etc.) you can do so. In case somthing goes wrong, you find a backup file here in this repo :-)
 
 ### Further Information:
 
